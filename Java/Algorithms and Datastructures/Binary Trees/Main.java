@@ -1,6 +1,6 @@
 /**
  * Main-Class for initializing a binary tree
- * @author Julian Gürtler
+ * @author juli-bs
  */
 public class Main{
 

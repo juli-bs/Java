@@ -1,6 +1,6 @@
 /**
  * class for trees
- * @author Julian Gürtler
+ * @author juli-bs
  */
 public class Tree{
 
