@@ -1,0 +1,13 @@
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/app/CMakeFiles/Battleship.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/app/CMakeFiles/edit_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/app/CMakeFiles/rebuild_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/libSea/CMakeFiles/Sea.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/libSea/CMakeFiles/edit_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/libSea/CMakeFiles/rebuild_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/libGameObjects/CMakeFiles/GameObjects.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/libGameObjects/CMakeFiles/edit_cache.dir
+C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug/src/libGameObjects/CMakeFiles/rebuild_cache.dir

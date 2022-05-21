@@ -1,0 +1,6 @@
+# ninja log v5
+10	118	6748401163162131	src/libSea/CMakeFiles/Sea.dir/Coordinates.cpp.obj	ac315ca9c49d5d5b
+8	596	6748401167949335	src/app/CMakeFiles/Battleship.dir/test.cpp.obj	356fd408620c5e8f
+6	810	6748401170093599	src/app/CMakeFiles/Battleship.dir/init.cpp.obj	388d9589f04bae11
+1	566	6748401167650134	src/app/CMakeFiles/Battleship.dir/main.cpp.obj	572b3e65b041ffde
+4	671	6748401168707303	src/app/CMakeFiles/Battleship.dir/game.cpp.obj	d3853690381ef7af

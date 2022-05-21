@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src"
+				},
+				{
+					"build" : "src/app",
+					"jsonFile" : "directory-src.app-Debug-de77eec203e76141027b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/app",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/libSea",
+					"jsonFile" : "directory-src.libSea-Debug-0a38786a738ac55a0d40.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/libSea",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "src/libGameObjects",
+					"jsonFile" : "directory-src.libGameObjects-Debug-cade21bf28336a27486d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/libGameObjects",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "blatt3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Battleship::@ff93792cf40911dae1b8",
+					"jsonFile" : "target-Battleship-Debug-a7d69af57ca96cfd52b4.json",
+					"name" : "Battleship",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "GameObjects::@858c6c8ff270a134185c",
+					"jsonFile" : "target-GameObjects-Debug-a53c3ed5ece94275ef68.json",
+					"name" : "GameObjects",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Sea::@23bf6499434215c355ec",
+					"jsonFile" : "target-Sea-Debug-38a2eae76c76dbd52347.json",
+					"name" : "Sea",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3/cmake-build-debug",
+		"source" : "C:/Users/Agando/Desktop/Studium/Prog2/blatt3/blatt3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
