@@ -1,0 +1,4 @@
+// TODO Aufgabe 4
+// Muss das Speichern der Berechnungsergebnisse im Pixel-/Farb-Array (ursprünglich `Vec *c`) synchronisiert werden? Begründet eure Entscheidung.
+
+

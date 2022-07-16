@@ -1,0 +1,5 @@
+C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer/CMakeFiles/edit_cache.dir
+C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer/CMakeFiles/rebuild_cache.dir
+C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer/src/CMakeFiles/smallpt.dir
+C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer/src/CMakeFiles/edit_cache.dir
+C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer/src/CMakeFiles/rebuild_cache.dir
