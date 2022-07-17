@@ -55,7 +55,7 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "smallpt::@145eef247bfb46b6828c",
-					"jsonFile" : "target-smallpt-Debug-f197562e9ff07cacd483.json",
+					"jsonFile" : "target-smallpt-Debug-21b4a61ba6230e270a3a.json",
 					"name" : "smallpt",
 					"projectIndex" : 0
 				}
@@ -65,8 +65,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Julian G\u00fcrtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer",
-		"source" : "C:/Users/Julian G\u00fcrtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9"
+		"build" : "C:/Users/Agando/Desktop/GitHub/C++/blatt9/cmake-build-pathtracer",
+		"source" : "C:/Users/Agando/Desktop/GitHub/C++/blatt9"
 	},
 	"version" : 
 	{

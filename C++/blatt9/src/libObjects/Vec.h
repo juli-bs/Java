@@ -28,26 +28,28 @@ struct Vec {
         return Vec(x * b, y * b, z * b);
     }
 
-    Vec operator+=(Vec const &b) {
+    void operator+=(Vec const &b) {
         x += b.x;
         y += b.y;
         z += b.z;
     }
 
+    [[nodiscard]] // BONUS-AUFGABE 2
     Vec mult(Vec const &b) const { // BONUS-AUFGABE 2 - const rechts von dem Typ der const gemacht werden soll
-        return Vec(x * b.x, y * b.y, z * b.z);
+        return ((x * b.x), (y * b.y), (z * b.z)); // BONUS-AUFGABE 2 - Avoid repeating the return type
     }
 
     Vec &norm() {
         return *this = *this * (1 / sqrt(x * x + y * y + z * z));
     }
 
+    [[nodiscard]] // BONUS-AUFGABE 2
     double dot(Vec const &b) const { // BONUS-AUFGABE 2 - const rechts von dem Typ der const gemacht werden soll
         return x * b.x + y * b.y + z * b.z;
     } // cross:
 
-    Vec operator%(Vec &b) {
-        return Vec(y * b.z - z * b.y, z * b.x - x * b.z, x * b.y - y * b.x);
+    Vec operator%(Vec &b) const { // BONUS-AUFGABE 2 - Methode const gemacht
+        return ((y * b.z - z * b.y), (z * b.x - x * b.z), (x * b.y - y * b.x)); // BONUS-AUFGABE 2 - Avoid repeating the return type
     }
 
 };

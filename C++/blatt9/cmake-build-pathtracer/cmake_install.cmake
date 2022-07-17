@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9
+# Install script for directory: C:/Users/Agando/Desktop/GitHub/C++/blatt9
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Project")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/smallpt")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer/src/cmake_install.cmake")
+  include("C:/Users/Agando/Desktop/GitHub/C++/blatt9/cmake-build-pathtracer/src/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Agando/Desktop/GitHub/C++/blatt9/cmake-build-pathtracer/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

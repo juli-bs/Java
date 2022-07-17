@@ -49,6 +49,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Program Files/JetBrains/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -152,8 +167,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Julian G\u00fcrtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/cmake-build-pathtracer",
-		"source" : "C:/Users/Julian G\u00fcrtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9"
+		"build" : "C:/Users/Agando/Desktop/GitHub/C++/blatt9/cmake-build-pathtracer",
+		"source" : "C:/Users/Agando/Desktop/GitHub/C++/blatt9"
 	},
 	"version" : 
 	{

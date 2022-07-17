@@ -28,11 +28,15 @@ struct Sphere {
 
     }
 
+    [[nodiscard]] //BONUS-AUFGABE 2
     double intersect(const Ray &r) const { // returns distance, 0 if nohit
 
         Vec op = position - r.o; // Solve t^2*d.d + 2*t*(o-p).d + (o-p).(o-p)-R^2 = 0
 
-        double t, eps = 1e-4, b = op.dot(r.d), det = b * b - op.dot(op) + rad * rad;
+        double t;
+        double eps = 1e-4;
+        double b = op.dot(r.d);
+        double det = b * b - op.dot(op) + rad * rad;
 
         if (det < 0) {
             return 0;

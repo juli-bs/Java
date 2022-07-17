@@ -1,4 +1,6 @@
 // TODO Aufgabe 4
 // Muss das Speichern der Berechnungsergebnisse im Pixel-/Farb-Array (ursprünglich `Vec *c`) synchronisiert werden? Begründet eure Entscheidung.
 
-
+Nein diese Berechnungsergebnisse müssen nicht (von Hand) synchronisiert werden! Vgl. hierzu das Vorlesungs-Video im Bereich
+[2:26-2:35] - hier wird nämlich gesagt, dass async alles für uns übernimmt, wie eben auch das locken der Variable, was
+eben bedeutet, dass die Ergebnisse direkt von der Funktion selber synchronisiert werden!

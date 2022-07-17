@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Julian Gürtler/Desktop/Studium/Bachelor2/Programmieren2/Programme/Aufgaben/Blatt9/blatt9/src
+# Install script for directory: C:/Users/Agando/Desktop/GitHub/C++/blatt9/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Project")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/smallpt")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
